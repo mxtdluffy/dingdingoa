@@ -1,0 +1,7 @@
+ DingTalkPC.biz.util.openLink({
+      url: "http://oa.wfszgs.com"  ,//要打开链接的地址
+      onSuccess : function(result) {
+                        /**/
+        },
+       onFail : function() {}
+  })
